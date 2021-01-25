@@ -5,7 +5,7 @@
 ### 使用教程
 #### Method of use    
 
-### 2021 1-25 main分支将不再更新 改用 main1分支
+### 2021 1-25 当前分支将不再更新 改用 main1分支
 
 - 这是我的neovim配置，使用的coc.nvim 进行补全,拷贝到你的配置目录，执行`:source ~/.config/nvim/install.vim` or `:Init`      
 - This is my neovim configuration, the use of the coc. Nvim for completion,Copy to your configuration file directory, open the neovim execution     
